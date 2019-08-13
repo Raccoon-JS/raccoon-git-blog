@@ -2,6 +2,6 @@
 
 ## August 13th 2019
 
-![My icon.](../images/raccoon_icon.png)
+![My icon.](https://github.com/Raccoon-JS/raccoon-git-blog/blob/master/entries/images/raccoon_icon.png)
 
 Testing.
